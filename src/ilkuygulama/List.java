@@ -4,15 +4,13 @@
  * and open the template in the editor.
  */
 package ilkuygulama;
-
 /**
  *
- * @author cngz
+ * @author Cengiz
  */
-public class List {
+public class List {   
     
     class Item {
-
         int _value;
         Item _next;
         
