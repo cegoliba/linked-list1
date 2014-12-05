@@ -8,7 +8,7 @@ package ilkuygulama;
 
 /**
  *
- * @author user
+ * @author Cengiz
  */
 public class Ilkuygulama {
 
