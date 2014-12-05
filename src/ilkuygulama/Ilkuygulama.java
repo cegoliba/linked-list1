@@ -3,15 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package ilkuygulama;
-
 /**
  *
  * @author Cengiz
  */
 public class Ilkuygulama {
-
     /**
      * @param args the command line arguments
      */
@@ -25,6 +22,5 @@ public class Ilkuygulama {
         lst.Insert(1);
         lst.Insert(4);
         lst.Display();
-    }
-    
+    }    
 }
